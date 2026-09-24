@@ -27,7 +27,7 @@ You do not need to know GitHub. Click a folder to open it and a file to read it.
 |---|---|
 | `1-example-company/` | The company, its ICP, and its buying personas, with the quotes marked for whether a customer actually said them. |
 | `example-data/` | Four weeks of Rootline's commercial record, 2026-W33 to W36. Ten sources: 45 call transcripts, 18 email threads, CRM exports, NPS, CSAT, Slack and testimonials. Both tools read from here. |
-| `2-structured-database/` | The database with weeks 33 to 35 loaded, the same database with week 36 loaded on top, and the prompt that loads a week. |
+| `2-structured-database/` | A blank starting file with the rules and empty tables, the database with weeks 33 to 35 loaded, the same database with week 36 loaded on top, and the prompt that loads a week. |
 | `3-vertical-use-case-agent/` | The method write-up, the agent itself (`vertical-use-case-agent/SKILL.md`), its two inputs (the use cases Rootline already serves, and outside research on functional food), and the output of one run. |
 
 ## Three ways to use it
@@ -38,6 +38,7 @@ You do not need to know GitHub. Click a folder to open it and a file to read it.
 
 **Run it with an AI tool.**
 
+- *Build your own from week 33.* Start from [`structured-database-template.md`](2-structured-database/structured-database-template.md): every rule, every table, no rows. Use the week 36 prompt as the pattern and swap in the week's sources.
 - *Load a week yourself.* Open [`prompt-load-week-36.md`](2-structured-database/prompt-load-week-36.md). It is a copy and paste prompt that works in any AI tool. Attach `structured-database.md` and the week 36 sources it lists, run it, and compare what you get with `structured-database-w36.md`.
 - *Run the vertical use case agent in Claude Code.* Download this repository, copy the folder `3-vertical-use-case-agent/vertical-use-case-agent` into `~/.claude/skills/`, open Claude Code in the repository's top folder, and type `/vertical-use-case-agent`.
 - *Run the agent in another AI tool.* Give it the contents of `SKILL.md` as its instructions, and attach `structured-database.md`, `use-case-context.md` and the research file.
