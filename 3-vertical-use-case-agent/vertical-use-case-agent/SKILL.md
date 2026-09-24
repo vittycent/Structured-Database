@@ -19,11 +19,13 @@ Corollary: **a refusal is a valid answer.** If the evidence is not there, say so
 
 | | Path |
 |---|---|
-| Customer evidence, the source of truth | `~/Desktop/Claude/Projects/AI Workshops/Clients/PMA/Demo 16:09:2026/share/structured-database.md` |
-| Served use cases, the "already covered" list | `.../share/use-case-context.md` |
-| Sub-vertical research, owner-supplied | `.../share/research-subvertical-<slug>.md` |
-| Output, one per vertical | `.../share/use-case-database-<slug>.md` |
-| Design decisions behind this skill | `.../Demo 16:09:2026/internal/build/use-case-agent-design.md` |
+| Customer evidence, the source of truth | `2-structured-database/structured-database.md` |
+| Served use cases, the "already covered" list | `3-vertical-use-case-agent/use-case-context.md` |
+| Sub-vertical research, owner-supplied | `3-vertical-use-case-agent/research-subvertical-<slug>.md` |
+| Output, one per vertical | `3-vertical-use-case-agent/use-case-database-<slug>.md` |
+| The method behind this skill | `3-vertical-use-case-agent/how-to-build-a-vertical-use-case-agent.md` |
+
+Paths are from the top of the repository. If the files are attached to a chat instead, find them by file name.
 
 **Never read.** `vertical-use-cases-fb.md`, `00-roster.md`, `account-portfolio.md`, and any file whose name contains `answer-key`, `planting` or `build-spec`. These are the answer key and the build specs for validating this agent. If the agent can read them the exercise is circular and proves nothing.
 

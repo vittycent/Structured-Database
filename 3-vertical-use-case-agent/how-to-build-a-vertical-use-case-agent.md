@@ -48,7 +48,7 @@ The research file needs four safeguards, and they are what make the whole thing 
 - **Your own topic gets no special weight.** Size topics by how much the market's own sources talk about them, not by how much you would like them to matter.
 - A limits section saying what the file looked for and what it deliberately did not.
 
-That third safeguard is uncomfortable by design. In our build, a 68 source research file on functional food and beverage contained the words carbon, emissions, footprint, climate and scope 3 exactly **zero** times, for a product that sells carbon accounting. That finding was worth more than any use case in the output.
+That third safeguard is uncomfortable by design. In our build, a 67 source research file on functional food and beverage contained the words carbon, emissions, footprint, climate and scope 3 exactly **zero** times, for a product that sells carbon accounting. That finding was worth more than any use case in the output.
 
 ---
 
@@ -82,7 +82,7 @@ Three questions, and the third is the one that matters.
 
 That last question is the one everybody skips, and skipping it is the characteristic failure of this whole exercise. An agent that only finds matches is an agent that says yes to everything, and you cannot tell it apart from a working one by reading its output.
 
-Our worked example: the second best evidenced pattern in the entire database was about collecting data from many small suppliers, where goodwill is the constraint and who signs the request matters more than how it is worded. It is proven, it is strong, and it does not transfer at all, because the target market buys from large industrial suppliers with sustainability functions instead of from farms and boats. Carrying it across would have produced confident, well cited, wrong positioning.
+Our worked example: the third best evidenced pattern in the entire database was about collecting data from many small suppliers, where goodwill is the constraint and who signs the request matters more than how it is worded. It is proven, it is strong, and it breaks on the way across, because in the target market the brand is the weak party. It is asking a favour of a protein supplier it depends on for allocation, and the farms sit behind a handful of global processors. Carrying it across would have produced confident, well cited, wrong positioning.
 
 Then grade everything twice:
 
@@ -92,7 +92,7 @@ Then grade everything twice:
 | **B. Market-native hypothesis** | Research only, no customer evidence | Yes, marked as hypothesis |
 | **C. Breaks on transfer** | Proven here, will not hold there | No. Parked |
 
-And grade **transfer strength separately from servability**. A need can transfer perfectly and still be one your product cannot serve. One of ours transferred on strong evidence and had near zero servability, because the regulation driving it was not about our product category at all. A single combined score would have buried that.
+And grade **transfer strength separately from servability**. A need can transfer perfectly and still be one your product cannot serve. One of ours transferred on strong evidence and had low servability, because the claims under attack in that market were health claims, and a carbon product cannot back a health claim. A single combined score would have buried that.
 
 ### Gate 2. Positioning
 
@@ -102,7 +102,7 @@ Dunford's components, in order, with two additions that do the real work.
 2. **Unique attributes.** Each tied to a specific observation. **State the known weaknesses of the same capability right here.** A positioning document that hides them survives until the first demo.
 3. **Value and proof.** Name the proof points, and say which market they came from.
 4. **Target market characteristics.** How to spot someone who cares a lot, **ending with a negative signal**: who looks similar and does not have this problem.
-5. **Market category.** The highest leverage choice in the document, because it sets your comparison set and often your budget line. One of ours moved the buyer from sustainability to marketing and legal simply by being framed as claim substantiation rather than carbon accounting, which mattered because the evidence base showed there was no sustainability budget line to buy from.
+5. **Market category.** The highest leverage choice in the document, because it sets your comparison set and often your budget line. One of ours moved the buyer from sustainability to procurement simply by being framed as a sourcing comparison used inside the tender rather than as carbon accounting, which mattered because the research could not show a sustainability function to buy from.
 6. **Relevant trend.** One line. Garnish.
 
 Then: **what would falsify this.** Every entry closes with the condition under which the whole position is wrong. It takes one sentence and it is the only part that keeps the document honest as it ages.
@@ -163,4 +163,4 @@ Say it on the first page.
 
 ---
 
-_Method developed 15 to 16 September 2026. The worked example throughout is a fictional carbon accounting company, built as teaching data._
+_Method developed 15 to 16 September 2026. The worked example throughout is a fictional carbon accounting company, built as teaching data. The example run stopped partway through Gate 2, so the Gate 3 guidance above is the design, not a tested result._

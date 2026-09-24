@@ -41,4 +41,4 @@ Anyone who answers a question from one export alone will get a number that was n
 
 Running the extraction, clustering and messaging sequence from the session on a realistic pile rather than on one clean transcript. It is deliberately imperfect: stale exports, blank fields, untracked metrics, structured CRM fields that contradict their own free text notes, marketing language quoted back as customer language, internal calls that read like customer speech, and at least two conclusions that look obvious from one source and are wrong.
 
-**`00-roster.md` and the frequency table in `../../internal/answer-keys/example-context-use-cases.md` are the answer key.** Keep them out of anything handed to attendees.
+**`00-roster.md` and the frequency table in `example-context-use-cases.md` are the answer key, and neither is in this pack.**

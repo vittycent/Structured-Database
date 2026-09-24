@@ -2,7 +2,7 @@
 
 _Example data, built for the PMM Alliance session. Fictional. Twenty two recorded calls, exported from the conversation intelligence tool. Auto transcription, not corrected._
 
-**Every call in this folder took place inside 2026-W33 to W36**, 10 August to 6 September 2026. Speakers refer to the past freely, and nothing outside the window is a recorded call. Account allocation is in `../../../internal/answer-keys/account-portfolio.md`.
+**Every call in this folder took place inside 2026-W33 to W36**, 10 August to 6 September 2026. Speakers refer to the past freely, and nothing outside the window is a recorded call. Account allocation is in the build spec, which is not in this pack.
 
 Deal outcomes are in `../02-deals-won-lost.md`, but note that five of the losses here closed after that export was pulled on the 19th and are not in it. Three spine threads show stage progression: Vinga Sjömat at qualification, discovery and evaluation; Nordflor Brands at demo, procurement and negotiation and close; Hedlunds Bageri at discovery and loss debrief. Kärnhuset Group appears at data architecture and board feedback.
 

@@ -2,7 +2,7 @@
 
 _Example data, built for the PMM Alliance session. Fictional. Twenty recorded calls, exported from the conversation intelligence tool, auto transcribed, not corrected._
 
-**Every call in this folder took place inside 2026-W33 to W36**, 10 August to 6 September 2026. Twenty different customers at different points in their life with Rootline, spanning onboarding through renewal, escalation, churn and win-back. Account allocation is in `../../../internal/answer-keys/account-portfolio.md`.
+**Every call in this folder took place inside 2026-W33 to W36**, 10 August to 6 September 2026. Twenty different customers at different points in their life with Rootline, spanning onboarding through renewal, escalation, churn and win-back. Account allocation is in the build spec, which is not in this pack.
 
 | File | Account | Seg | Stage | Date | Week | Length | CSM |
 |---|---|---|---|---|---|---|---|
