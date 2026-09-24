@@ -32,7 +32,7 @@ You do not need to know GitHub. Click a folder to open it and a file to read it.
 
 ## Three ways to use it
 
-**Read it here.** Every file is plain text, and GitHub shows it formatted.
+**Read it here.** Every file is plain text, and GitHub shows it formatted. One exception: `structured-database-w36.md` is too big for GitHub to format, so it opens as plain text. Nothing is missing. To see its tables laid out, download it and open it in any Markdown app.
 
 **Download everything.** Press the green **Code** button at the top of this page, then **Download ZIP**.
 
