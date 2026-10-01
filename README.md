@@ -56,3 +56,7 @@ You do not need to know GitHub. Click a folder to open it and a file to read it.
 Two versions of the same database are in `2-structured-database/` on purpose. `structured-database.md` stops at week 35. `structured-database-w36.md` has week 36 loaded: 221 more observations, a new pattern, a new signal, six new proof points, and every count in every register recomputed.
 
 Compare them and you are looking at exactly what one week of a commercial team's work adds to the picture of a buyer: which patterns gained accounts, which status moved and on what count, what got asked for that nobody can sell, and which questions the week raised without settling.
+
+## Licence
+
+This repository is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You may share and adapt it, including commercially, as long as you give credit to Victor Arellano and note any changes. All company names, people, calls and numbers are fictional.
